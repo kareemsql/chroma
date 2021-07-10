@@ -1,4 +1,5 @@
 # gtx v1, made with love for Chroma.
+#Copyright 2021, kareemsql, All rights reserved.
 
 import discord
 from discord.ext import commands
